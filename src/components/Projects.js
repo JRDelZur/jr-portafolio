@@ -44,12 +44,12 @@ const projects = [
     image: '/img/nube.png',
     link: '#',
   },
-  {
-    title: 'Página de Música: Bacachitto Sets',
-    description: 'Sitio web con tracklists de mezclas y sesiones musicales alojadas en SoundCloud.',
-    image: '/img/bacachitto.png',
-    link: '#',
-  },
+//  {
+//    title: 'Página de Música: Bacachitto Sets',
+//    description: 'Sitio web con tracklists de mezclas y sesiones musicales alojadas en SoundCloud.',
+//    image: '/img/bacachitto.png',
+//    link: '#',
+//  },
 ];
 
 function Projects() {

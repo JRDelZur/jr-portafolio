@@ -16,7 +16,7 @@ function Hero() {
       </div>
 
       <motion.img 
-        src="/img/astronauta.png"
+        src="/img/Astronauta.png"
         alt="Astronauta"
         className="astronauta"
         animate={{ y: [0, -10, 0] }}
